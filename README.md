@@ -31,8 +31,7 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📸 Demo
 
-- [x] Game now runs correctly — hints are accurate, winning is possible, and the score tracks properly.
-
+- [x] Game now runs correctly.
 ## 🚀 Stretch Features
 
 - [ ] [If you choose to complete Challenge 4, insert a screenshot of your Enhanced Game UI here]
