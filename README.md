@@ -32,6 +32,7 @@ It wrote the code, ran away, and now the game is unplayable.
 ## 📸 Demo
 
 - [x] Game now runs correctly.
+- [ ] https://imgur.com/a/tHesk2R
 ## 🚀 Stretch Features
 
 - [ ] [If you choose to complete Challenge 4, insert a screenshot of your Enhanced Game UI here]
